@@ -1,6 +1,5 @@
 # **Cloud Native Resource Monitoring Python App on K8s!**
 
-<div align="center">
   <img src="Realtime_cloud_native_monitoring_app.jpg" alt="Logo" width="100%" height="100%">
 
 ## **Prerequisites** !
